@@ -9,5 +9,9 @@ func main() {
 	//dialect := config["dialect"]
 	//db, err = gorm.Open(dialect, dbUrl)
 
-	printStarPatterns(5)
+	//printStarPatterns(5)
+
+	//userInput()
+
+	findSecondLargest()
 }
